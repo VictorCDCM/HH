@@ -16,4 +16,4 @@ The expected output is a blue curve depicting the curves of the wildtype in blue
 
 The data can be then written into a CSV file by uncommenting the last lines and the directory specified.
 
- 
+The thtts csv file is a example raw data file from the simulation.
