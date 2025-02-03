@@ -14,6 +14,6 @@ The install time should take less than a minute on a normal desktop computer.
 To run the data, simply execute the run command on Python.
 The expected output is a blue curve depicting the curves of the wildtype in blue and the mutant in black. The run time should take a few seconds.
 
-The data can be then written into a PDF file by uncommenting the last line.
+The data can be then written into a CSV file by uncommenting the last lines.
 
  
