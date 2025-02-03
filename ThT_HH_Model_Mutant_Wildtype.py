@@ -132,7 +132,7 @@ plt.ylim(1,45)
 
 
 
-#with open('C:\\Users\\victo\\OneDrive\\Documentos\\ResultsRKCSV\\thtts.csv', 'w', encoding='UTF8', newline='') as f:
+#with open('##INSERT DIRECTORY PATH HERE##', 'w', encoding='UTF8', newline='') as f:
 #    writer = csv.writer(f)
 
     # write the header
